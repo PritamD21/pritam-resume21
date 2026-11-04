@@ -32,10 +32,10 @@ Use a separate repository for each project's code and link to it from this portf
 
 Download or clone this repository and open `index.html` in a browser. No installation or build is needed.
 
-Committing here saves the source and its version history. It does **not** automatically update the existing hosted website. Redeploy the updated files after editing; automatic deployment has not been configured.
+This site is published through GitHub Pages from `main` and `/(root)`. Commits to `main` automatically update the GitHub Pages website after the deployment completes.
 
-The EconPrep links in this source copy point to the private MSQE project repository. Its hosted demo address is intentionally omitted. You can change those links to your preferred project destination later.
+EconPrep links point to its separate GitHub Pages website. The previous hosted demo address is intentionally omitted.
 
 ## Privacy
 
-Keep this repository private. It contains only the public-facing portfolio and portrait, with no CV document, contact details, exam papers, question bank or application credentials.
+This public repository contains only the public-facing portfolio and portrait, with no CV document, contact details, exam papers, question bank or application credentials.
